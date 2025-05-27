@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toufu</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Toufu</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;profile&#34;&gt;&#xA;  Profile&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#profile&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;名前: とうふ&lt;/li&gt;&#xA;&lt;li&gt;在籍: 国立大学法人電気通信大学Ⅱ類Iエリア&lt;/li&gt;&#xA;&lt;li&gt;趣味:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ネットワーク機器の運用&lt;/li&gt;&#xA;&lt;li&gt;Android Open Source ProjectをベースとしたカスタムROM開発&lt;/li&gt;&#xA;&lt;li&gt;東方Projectの楽曲鑑賞&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;こんにちは、とうふと申します。&lt;br&gt;&#xA;そこらへんにいるガジェット好きです。&lt;br&gt;&#xA;最近はWitAquaというAndroidのカスタムROMを作っています。&lt;br&gt;&#xA;よろしくお願いします！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;witaqua&#34;&gt;&#xA;  WitAqua&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#witaqua&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;概要: Android Open Source Project, LineageOS, Evolution XなどをベースにしたAndroidのカスタムROMです。&lt;br&gt;&#xA;安定性と機能性を兼ね備えたものを作りたいですね。あと見た目のカスタマイズもしっかりやりたい。&lt;/li&gt;&#xA;&lt;li&gt;Link: &lt;a href=&#34;https://witaqua.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/logo.svg&#34; alt=&#34;WitAqua Logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="171px" viewBox="0 0 100 171" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="64.455711" y1="77.439041" x2="121.969513" y2="138.773804" gradientTransform="matrix(2.436239,0,0,2.438874,-144.392654,-149.349716)">
+<stop offset="0.166616" style="stop-color:rgb(0%,80.392157%,67.843137%);stop-opacity:1;"/>
+<stop offset="0.433992" style="stop-color:rgb(0%,92.941176%,92.941176%);stop-opacity:1;"/>
+<stop offset="0.850242" style="stop-color:rgb(81.960784%,98.823529%,98.823529%);stop-opacity:1;"/>
+<stop offset="0.996511" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:url(#linear0);stroke-width:3.57103;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(85.09804%,88.235295%,85.882354%);stroke-opacity:1;stroke-miterlimit:4;" d="M 102.895866 10.187587 C 102.895866 10.187587 -15.011066 199.084924 103.933132 199.014884 C 228.88647 198.944844 102.895866 10.187587 102.895866 10.187587 Z M 102.895866 10.187587 " transform="matrix(0.892521,0,0,0.89235,-43.727313,-8.208078)"/>
+</g>
+</svg>

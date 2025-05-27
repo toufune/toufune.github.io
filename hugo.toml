@@ -1,0 +1,41 @@
+baseURL = 'https://toufu.dev/'
+languageCode = 'ja-jp'
+title = 'Toufu'
+theme = 'hugo-coder'
+enableEmoji = true
+
+[params]
+author = "Toufu"
+description = "Toufu's personal website"
+keywords = "student,developer,personal"
+avatarURL = "images/avatar.png"
+since = 2025
+commit = "https://github.com/toufune/toufu.dev/tree/"
+colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/toufune/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-x-twitter fa-2x"
+weight = 3
+url = "https://twitter.com/toufu14271/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Blog"
+weight = 2
+url = "https://toufu.blog/"
+
+[[menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"

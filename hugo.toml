@@ -4,6 +4,10 @@ title = 'Toufu'
 theme = 'hugo-coder'
 enableEmoji = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 author = "Toufu"
 description = "Toufu's personal website"
